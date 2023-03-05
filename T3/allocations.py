@@ -2,7 +2,7 @@ from random import randint, seed
 from pprint import pprint
 
 
-seed(0)  # Set the seed to your Student ID
+seed(9963148)  
 
 
 def get_preferences(nm: int, nl: int):
